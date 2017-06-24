@@ -123,3 +123,6 @@ rpcd-mod-iwinfo
 uvcdynctrl
 gre
 kmod-gre
+snmpd
+vnstat
+curl
